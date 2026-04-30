@@ -1,0 +1,22 @@
+{
+  "name": "Сказки Дедушки Дрёмы",
+  "short_name": "Дрёма",
+  "description": "Интерактивные сказки для детей",
+  "start_url": "/osnova1.html",
+  "display": "standalone",
+  "background_color": "#c4b5fd",
+  "theme_color": "#a855f7",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-2.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
